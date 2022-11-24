@@ -1,3 +1,6 @@
+This is what we've looked at.
+https://github.com/analogjs/analog/issues/21
+
 # Analog App
 
 This project was generated with [Analog](https://npmjs.com/package/create-analog).
